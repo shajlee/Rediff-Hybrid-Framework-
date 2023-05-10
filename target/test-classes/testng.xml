@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Rediff Hybrid Automation Practice Suite">
+     
+     <listeners>
+         <listener class-name="com.qa.practicerediff.listeners.MyRediffPracticeListeners"/>
+     </listeners>
+ 
+  <test  name="Rediff Testcases">
+    <classes>
+      <class name="com.qa.practicerediff.testcases.RediffPractice_LandingPageTest"/>
+      <class name="com.qa.practicerediff.testcases.RediffPractice_SignInLinkTest"/>
+      <class name="com.qa.practicerediff.testcases.RediffPractice_LoginTests"/>
+      <class name="com.qa.practicerediff.testcases.RediffPractice_InboxPageTest"/>
+      <class name="com.qa.practicerediff.testcases.RediffPractice_LogoutTest"/>
+      <class name="com.qa.practicerediff.testcases.RediffPractice_HomePageTest"/>
+      <class name="com.qa.practicerediff.testcases.RediffPractice_LinkTests"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

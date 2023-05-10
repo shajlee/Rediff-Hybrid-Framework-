@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Rediff Hybrid Automation Practice Suite" duration-ms="5697" started-at="2023-05-09T06:26:04Z" finished-at="2023-05-09T06:26:10Z">
+    <groups>
+    </groups>
+    <test name="Rediff Testcases" duration-ms="5697" started-at="2023-05-09T06:26:04Z" finished-at="2023-05-09T06:26:10Z">
+      <class name="com.qa.practicerediff.testcases.RediffPractice_SignInLinkTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.practicerediff.testcases.RediffPractice_SignInLinkTest@5e0826e7]" name="setUp" is-config="true" duration-ms="3044" started-at="2023-05-09T06:26:04Z" finished-at="2023-05-09T06:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnSignInLink()[pri:0, instance:com.qa.practicerediff.testcases.RediffPractice_SignInLinkTest@5e0826e7]" name="clickOnSignInLink" duration-ms="1992" started-at="2023-05-09T06:26:07Z" finished-at="2023-05-09T06:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSignInLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.practicerediff.testcases.RediffPractice_SignInLinkTest@5e0826e7]" name="tearDown" is-config="true" duration-ms="638" started-at="2023-05-09T06:26:09Z" finished-at="2023-05-09T06:26:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.practicerediff.testcases.RediffPractice_SignInLinkTest -->
+    </test> <!-- Rediff Testcases -->
+  </suite> <!-- Rediff Hybrid Automation Practice Suite -->
+</testng-results>
